@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9edfc2baf3f0e184dba1db5814bc1fd3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilePrefab: {fileID: 7136383203386038335, guid: 96a5e487265a02145817547b0818f868, type: 3}
+  - gridParent: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - bestScoreText: {instanceID: 0}
+  - gameOverPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
